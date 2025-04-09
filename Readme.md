@@ -2,7 +2,6 @@
 
 A clean, responsive user directory that fetches and displays user data from JSONPlaceholder API.
 
-![Screenshot](https://i.imgur.com/JQ8W5cM.png)
 
 ## Features
 
